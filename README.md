@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm WOO SEOUNG JUN</h1>
+<h1 align="center">Hi 👋, I'm WOO SEONG JUN</h1>
 <h3 align="center">개발 공부</h3>
 
 <h3 align="left">Connect with me:</h3>
